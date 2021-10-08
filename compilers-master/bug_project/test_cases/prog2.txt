@@ -1,0 +1,15 @@
+var i;
+
+// Esto es un comentario.
+
+i = 0;
+while (i < 6) {
+	print("i = ", i);
+	if (i == 3) {
+		print("i equals ", 3);
+	} else {
+		print ("i not equals ", 3);
+	}
+	i = i + 1;
+}
+// Ultimo comentario.

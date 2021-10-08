@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="compilers-master/bug_project/src"/>
+	<classpathentry kind="src" path="compilers-master/examples/grammar_analyzer"/>
+	<classpathentry kind="src" path="compilers-master/examples/lexical_analyzer"/>
+	<classpathentry kind="src" path="compilers-master/examples/translator_analyzer_dr"/>
+	<classpathentry kind="src" path="compilers-master/examples/translator_analyzer_slr"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
